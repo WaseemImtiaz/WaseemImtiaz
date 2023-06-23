@@ -1,27 +1,27 @@
-## I am [Hamza Ghulam Nabi!](https://www.facebook.com/hamzaghulamnabirizvi) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+## I am [Waseem Imtiaz!](https://www.facebook.com/wasimughal02) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 
 <div align="center">
 <p align="center">Let's connect!</p>
     
-<a href="https://stackoverflow.com/users/22118365/hamza-ghulam-nabi">
+<a href="https://stackoverflow.com/users/14698372/waseem-imtiaz">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="https://www.upwork.com/freelancers/~019173f97e268061d2">
+<a href="https://www.upwork.com/freelancers/~019173f97e26806d2">
     <img src="https://img.shields.io/badge/Upwork-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/hamza__rizvi/">
+<a href="https://www.instagram.com/wasimughal02/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/hamza-ghulam-nabi-0078a820b/">
+<a href="https://www.linkedin.com/in/muhammad-waseem-imtiaz-5a1ba7155/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.me/923040247308">
+<a href="https://wa.me/923114087771">
     <img src="https://img.shields.io/badge/Whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&color=darkgreen&logoColor=white" />
 </a>
-    <a href="https://www.facebook.com/hamzaghulamnabirizvi">
+    <a href="https://www.facebook.com/wasimughal02">
     <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&&color=darkbluelogoColor=white" />
 </a>
 
@@ -37,7 +37,7 @@
 
 
 
-- 🔭 I am currently working on an Ecommerce_App.<br/>
+- 🔭 I am currently working on an Fleets_App.<br/>
 - 🌱 I am currently looking to work with a company<br/>
 - 💬 Ask me about Flutter,Firebase, APIs.<br/>
 - 📫 How to reach me: WhatsApp : wa.link/k0unln
@@ -66,7 +66,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza-rizvii&theme=gotham)](https://github.com/hamza-rizvii/github-readme-stats)
+[![Waseem's github stats](https://github-readme-stats.vercel.app/api?username=WaseemImtiaz&theme=gotham)](https://github.com/WaseemImtiaz/github-readme-stats)
 
 
 
